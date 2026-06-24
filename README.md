@@ -33,5 +33,5 @@ Videojuego educativo desarrollado en Unity con el objetivo de facilitar el apren
 
 ## Autor
 
-Proyecto desarrollado por Yuls MoVa como parte de su formación en Ingeniería en Sistemas Computacionales.
+Proyecto desarrollado por Gisel Morales como parte de su formación en Ingeniería en Sistemas Computacionales.
 
